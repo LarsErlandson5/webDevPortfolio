@@ -1,0 +1,10 @@
+
+body{
+    background-color: black
+
+}
+
+[class*="col-"]{
+    border: 1px solid red;
+}
+
